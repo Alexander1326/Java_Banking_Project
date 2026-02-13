@@ -37,7 +37,7 @@ A full-stack **Java Banking Web Application** built using **Spring MVC**, **JDBC
 
 ## 📂 Project Folder Structure
 ---
-
+---
 src/main/java/com/bank
 ├── config → Application and MVC configuration
 ├── controller → Web controllers (Admin & Customer)
@@ -52,7 +52,7 @@ src/main/webapp
 ├── web.xml
 └── views → JSP pages
 
-
+----
 
 ---
 
